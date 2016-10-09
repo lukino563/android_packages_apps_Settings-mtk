@@ -7594,4 +7594,8 @@
     <string name="lte_data_service_enabled">LTE data service enabled </string>
     <string name="turn_off_wifi_dialog_title">Turn off Wi-Fi</string>
     <string name="turn_off_wifi_dialog_text">Wi-Fi is turned off when Mobile HotSpot is active. To turn on Wi-Fi, please turn off Mobile HotSpot.</string>
+
+    <!-- Smart Cover settings -->
+    <string name="smart_cover_settings">Smart Cover</string>
+
 </resources>
